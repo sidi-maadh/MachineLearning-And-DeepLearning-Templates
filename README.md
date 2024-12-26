@@ -8,14 +8,20 @@
 
 </div>
 
-I have created this repository provides a well-structured template for organizing my Machine Learning/Deep Learning (ML/DL) Projects and to share them with others.
+<br/>
 
-
-
-<br/><br/>
 <p align="center">
-   	<b>
-		If you like it, give the <a href="https://github.com/sidi-maadh/MachineLearning-And-DeepLearning-Template"> project repository</a>  a star on Github and 
-		share with your friends!! I will be happy with it! ❤️ <br/> I hope you learn something :).
-	</b> 
+<b>
+I have created this repository provides a well-structured template for organizing my Machine Learning/Deep Learning (ML/DL) Projects and to share them with others.
+</b>
+<p >
+	
+<br/><br/>
+
+<p align="center">
+<b>
+If you like it, give the <a href="https://github.com/sidi-maadh/MachineLearning-And-DeepLearning-Template"> project repository</a>  a star on Github and 
+share with your friends!! I will be happy with it! ❤️ <br/> I hope you learn something :).
+</b> 
+
 </p>
