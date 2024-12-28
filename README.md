@@ -1,6 +1,6 @@
 <div align="center">
 
-# Machine Learning And Deep Learning Template
+# Machine Learning And Deep Learning Templates
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/sidi-maadh/MachineLearning-And-DeepLearning-Templates?style=for-the-badge&logo=apachespark&logoColor=FFFFFF&labelColor=488207&color=55960c)
 ![GitHub watchers](https://img.shields.io/github/watchers/sidi-maadh/MachineLearning-And-DeepLearning-Templates?style=for-the-badge&logo=darkreader&logoColor=FFFFFF&label=Visitors&labelColor=ff9900&color=ffa200)
